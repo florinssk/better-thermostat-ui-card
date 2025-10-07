@@ -17,7 +17,7 @@
         "disable_menu": "Dezactivează meniul",
         "disable_battery_warning": "Dezactivează avertizarea bateriei",
         "disable_buttons": "Dezactivează butoanele plus/minus",
-        "eco_temperature": "Temperatura eco",
+        "eco_temperature": "Temperatura țintă pentru modul noapte/plecat/eco",
         "set_current_as_main": "Schimbă locurile temperaturii țintă cu cea curentă"
       }
     }
