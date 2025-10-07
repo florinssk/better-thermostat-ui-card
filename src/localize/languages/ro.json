@@ -1,7 +1,7 @@
 {
   "common": {
     "version": "versiune",
-    "current": "curent",
+    "current": "Actual",
     "current_humidity": "Umiditate curentă",
     "current_temperature": "Temperatură curentă",
     "target_temperature": "Temperatură țintă"
@@ -9,7 +9,7 @@
   "editor": {
     "card": {
       "climate": {
-        "disable_window": "Dezactivează fereastra",
+        "disable_window": "Dezactivați indicatorul de fereastră deschisă",
         "disable_summer": "Dezactivează vara",
         "disable_eco": "Dezactivează eco",
         "disable_heat": "Dezactivează încălzirea",
@@ -24,13 +24,13 @@
   },
   "extra_states": {
     "window_open": "Fereastră deschisă",
-    "window_closed": "Fereastră închisă",
     "night_mode": "Mod noapte",
     "eco": "Eco",
     "summer": "Vara",
     "cooling": "Răcire",
     "heating": "Încălzire",
     "cooling_off": "Răcire oprită",
-    "heating_off": "Încălzire oprită"
+    "heating_off": "Încălzire oprită",
+    "window_closed": "Fereastră închisă"
   }
 }

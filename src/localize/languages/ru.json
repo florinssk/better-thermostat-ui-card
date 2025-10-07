@@ -24,13 +24,13 @@
   },
   "extra_states": {
     "window_open": "Окно открыто",
-    "window_closed": "Окно закрыто",
     "night_mode": "Ночной режим",
     "eco": "Эко",
     "summer": "Лето",
     "cooling": "Охлаждение",
     "heating": "Отопление",
     "cooling_off": "Охлаждение выключено",
-    "heating_off": "Отопление выключено"
+    "heating_off": "Отопление выключено",
+    "window_closed": "Окно закрыто"
   }
 }
